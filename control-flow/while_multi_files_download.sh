@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#This script uses array of urls and using while loop, to download multiple files
 urls=(
 	"https://example.com/file1.zip"
 	"https://example.com/file2.zip"
