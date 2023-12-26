@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#this script doesn't gives error like "sed: -e expression #1, char 8: unterminated `s' command"
 
 #this script will replace 'is' by 'the'
 
