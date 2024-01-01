@@ -5,7 +5,7 @@
 # Specify the filename to modify
 filename="your_text_file.txt"
 
-# Perform the replacement using sed
+# Perform the replacement using sed ( but how to replace a variable with pattern)
 sed -i 's/is/the/g' "$filename"
 
 # Print a message to confirm the replacement
